@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>rental mobil</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="script.js"></script>
+</head>
+<body style="background-image: url(bg.jpg);">
+  <nav class="bg-gray-800 p-4">
+    <div class="container mx-auto flex justify-between items-center">
+        <div class="text-white font-bold text-4xl">Rental Mobil</div>
+        <div class="hidden md:flex space-x-7">
+            <a href="#" class="text-white">Beranda</a>
+            <a href="#" class="text-white">Galery</a>
+            <a href="#" class="text-white">Kontak kami</a>
+        </div>
+        <div class="md:hidden flex items-center">
+            <button id="toggleButton" class="text-white focus:outline-none">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                </svg>
+            </button>
+        </div>
+    </div>
+    <div id="mobileMenu" class="hidden md:hidden bg-gray-800 px-2 py-4">
+        <a href="#" class="block text-white mb-2">Beranda</a>
+        <a href="#" class="block text-white mb-2">Galery</a>
+        <a href="#" class="block text-white">Kontak kami</a>
+    </div>
+  </nav>
+    <div class="flex flex-col text-black mt-48" >
+      <div>
+        <h1 class="px-10 text-4xl text-white  font-semibold leading-normal">Kamu Lagi Liburan Di Bandung? <br>ingin Rental mobil Bandung <br>
+        <span class="font-light">ada 2 mobil yang bisa anda pilih</span>
+        </h1>
+        <div class="px-10 mt-10">
+         <button onclick="mobil()" onclick="gtr()" class="bg-yellow-300 rounded-3xl py-3 px-8 font-medium inline-block mr-4 hover:bg-transparant hover:border-yellow-300 hover:text-white duration-300 hover:border border border-transparent">Pilih Di Sini</button>
+          
+        </div>
+      </div>
+        <img id="RentalMobil" src="lamborgini.png" class=" absolute mt-5 buttom-0 right-5" alt="alpard">
+       
+    </div>
+</body>
+</html>
