@@ -3,7 +3,7 @@
         <title>For</title>
 </head>
 <body>
-    <h2>Penggunaan Kontrol Foreach</h2>
+    <h2>Penggunaann Kontrol Foreach</h2>
     <b>Nama Bulan : </b><br>
     <?php
     $i=0;
