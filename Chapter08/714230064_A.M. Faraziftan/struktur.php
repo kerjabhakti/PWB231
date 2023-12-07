@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Strukturr Penulisan PHP</title>
+        <title>Struktur Penulisan PHP</title>
     </head>
     <body>
         <h2>Struktur Penulisan PHP</h2>

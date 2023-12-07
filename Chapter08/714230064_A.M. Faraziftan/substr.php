@@ -2,7 +2,7 @@
 
 <head>
     >
-    <title>Fungsi : Stringt</title>
+    <title>Fungsii : Stringt</title>
 </head>
 <body>
     <h2>fungsi : String substr()</h2>

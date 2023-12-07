@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Tipee Data Object</title>
+    <title>Tipe Data Object</title>
 </head>
 <body>
     <h2>Tipe Data Object</h2>

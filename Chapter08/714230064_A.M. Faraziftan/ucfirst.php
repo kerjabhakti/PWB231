@@ -5,7 +5,7 @@
     <title>Fungsi : String</title>
 </head>
 <body>
-    <h2>Fungsi : String ucfirst()</h2>
+    <h2>Fungsii : String ucfirst()</h2>
     <?php
     $string="Pemograman web php";
     $word=ucfirst($string);

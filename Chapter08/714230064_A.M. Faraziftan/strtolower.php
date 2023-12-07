@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Fungsii : String</title>
+        <title>Fungsi : String</title>
 </head>
 <body>
     <h2>Fungsi : String strtolower()</h2>
