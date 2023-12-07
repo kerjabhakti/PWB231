@@ -6,7 +6,7 @@
     <title>if</title>
 </head>
 <body>
-    <h2>Penggunaan kontrol if</h2>
+    <h2>Pengguna kontrol if</h2>
     <?php
     $umur=15;
     echo ("umur anda $umur tahun <br>");

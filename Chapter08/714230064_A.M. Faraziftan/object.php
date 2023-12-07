@@ -3,7 +3,7 @@
     <title>Tipe Data Object</title>
 </head>
 <body>
-    <h2>Tipee Data Object</h2>
+    <h2>Tipe Data Object</h2>
     <?php 
         class test
         {

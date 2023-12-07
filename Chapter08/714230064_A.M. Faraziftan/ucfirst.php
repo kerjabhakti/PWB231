@@ -2,7 +2,7 @@
 
 <head>
  
-    <title>Fungsi : String</title>
+    <title>Fungsii : String</title>
 </head>
 <body>
     <h2>Fungsi : String ucfirst()</h2>

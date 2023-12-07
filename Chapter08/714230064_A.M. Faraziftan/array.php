@@ -2,7 +2,7 @@
 
 <head>
    
-    <title>Tipee Data Arrayt</title>
+    <title>Tipe Data Arrayt</title>
 </head>
 <body>
     <h2>Tipe Data Array</h2>

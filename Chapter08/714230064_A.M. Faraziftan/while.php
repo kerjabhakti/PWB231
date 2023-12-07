@@ -5,7 +5,7 @@
     <title>while</title>
 </head>
 <body>
-    <h2>Pengguna kontrol while</h2>
+    <h2>Penggunaan kontrol while</h2>
     <?php
     $hari=array("senin", "selasa", "rabu", "kamis", "jumat", "sabtu", "minggu");
     $i=0;

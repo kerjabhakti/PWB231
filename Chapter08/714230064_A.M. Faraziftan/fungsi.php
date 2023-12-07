@@ -3,7 +3,7 @@
         <title>Fungsi Sederhana</title>
 </head>
 <body>
-    <h2>Pengguna Fungsi</h2>
+    <h2>Penggunaan Fungsi</h2>
     <?php
     function hitung($a,$b)
     {

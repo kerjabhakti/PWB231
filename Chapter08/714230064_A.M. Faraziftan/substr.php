@@ -5,7 +5,7 @@
     <title>Fungsi : Stringt</title>
 </head>
 <body>
-    <h2>fungsi : String substr()</h2>
+    <h2>fungsii : String substr()</h2>
     <?php
     $string="Pemograman web PHP";
     $word=substr ($string,16,3);
