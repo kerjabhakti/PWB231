@@ -5,7 +5,7 @@
     <title>Else IF</title>
 </head>
 <body>
-    <h2>Penggunaan Kontrol Else IF</h2>
+    <h2>Pengguna Kontrol Else IF</h2>
     <?php
     $nilai=80;
     echo ("Nilai $nilai");

@@ -5,7 +5,7 @@
     <title>Do while</title>
 </head>
 <body>
-    <h2>Pengguna Kontrol Do While</h2>
+    <h2>Penggunaan Kontrol Do While</h2>
     kelipat 3 adalah
     <?php
     $i=0;

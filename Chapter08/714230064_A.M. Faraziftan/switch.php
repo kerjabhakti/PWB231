@@ -5,7 +5,7 @@
     <title>Switch</title>
 </head>
 <body>
-    <h2>Penggunaan Kontrol Switch</h2>
+    <h2>Pengguna Kontrol Switch</h2>
     <?php
     $angka_mutu=3;
     echo ("Angkamutu $angka_mutu<br>");

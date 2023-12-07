@@ -3,7 +3,7 @@
         <title>Struktur Penulisan PHP</title>
     </head>
     <body>
-        <h2>Struktur Penulisan PHP</h2>
+        <h2>Strukturr Penulisan PHP</h2>
         <?php
             echo ("Selamat datang di kawasan PHP");
             print ("Selamat datang di daerah NTT PHP");?>

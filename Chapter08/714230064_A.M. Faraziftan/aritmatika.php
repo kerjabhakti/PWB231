@@ -5,7 +5,7 @@
     <title>Aritmatika</title>
 </head>
 <body>
-  <h2>Pengguna Aritmatika</h2>
+  <h2>Penggunaan Aritmatika</h2>
   <pre>
     <?php
     $a=7;

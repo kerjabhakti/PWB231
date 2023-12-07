@@ -3,7 +3,7 @@
         <title>Fungsi : String</title>
 </head>
 <body>
-    <h2>Fungsi : String strtolower()</h2>
+    <h2>Fungsii : String strtolower()</h2>
     <?php
     $string="Pemrograman Web PHP";
     $word=strtolower($string);

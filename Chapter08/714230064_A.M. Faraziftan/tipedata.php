@@ -3,7 +3,7 @@
     <title>Tipe Data PHP</title>
 </head>
 <body>
-    <h2>Tipe Data PHP</h2>
+    <h2>Tipee Data PHP</h2>
     <?php
     $var1 ="Hallo";
     $var2=1;
