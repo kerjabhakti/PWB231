@@ -45,7 +45,7 @@
                 echo "<td>".$maba['sekolah_asal']."</td>";
 
                 echo "<td>";
-                echo "<a href='edit.php?id=" .$maba['id']. "'>Edit</a> |";
+                echo "<a href='form-edit.php?id=" .$maba['id']. "'>Edit</a> |";
                 echo "<a href='hapus.php?id=" .$maba['id']. "'>Hapus</a> ";
                 echo "</td>";
                 echo "</tr>";
