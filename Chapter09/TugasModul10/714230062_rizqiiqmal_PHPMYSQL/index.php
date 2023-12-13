@@ -1,3 +1,12 @@
+<?php 
+require 'config.php';
+$status = isset($_GET['status']) ? $_GET['status'] : '';
+
+// $_GET['status'];
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,5 +27,12 @@
             <li><a href="list-maba.php">Pendaftaran</a></li>
         </ul>
     </nav>
+    <?php if ($status === 'sukses'): ?>
+        <p>Pendaftaran Mahasiswa POLTEKPOS berhasil</p>
+    <?php elseif ($status === 'gagal'): ?>
+        <p>Pesan: Operasi gagal!</p>
+    <?php else: ?>
+        <p></p>
+    <?php endif; ?>
 </body>
 </html>
