@@ -10,7 +10,7 @@
         <h3>Formulir Pendaftaran mahasiswa Baru | ULBI</h3>
     </header>
 
-    <form action="proses.php" method="POST">
+    <form action="proses-daftar.php" method="POST">
         <fieldset>
             <p>
                 <label for="nama">Nama:</label>
