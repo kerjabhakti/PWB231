@@ -51,7 +51,7 @@ Repository untuk perkuliahan pemrograman 1 (Design Website dan Pemrograman) dima
 | Kelompok 08 | Iqbal | Lusia | |Digital Library |
 | Kelompok 09 | M. Agung | Dwi | | Rental Mobil Alimrugi|
 | Kelompok 10 | Rizqi Iqmal | M. Okta | Farid | Skate Schooll |
-| Kelompok 11 | M. Hisyam | Sarah | | Pengaduan Masyarakat RT/RW Care|
+| Kelompok 11 | M. Hisyam | Sarah | | Website Blogger Style|
 | Kelompok 12 | Ahmad L. | Jiftan | | Kursus Bahasa Inggris |
 
 
