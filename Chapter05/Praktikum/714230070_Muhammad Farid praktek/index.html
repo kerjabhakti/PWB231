@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Membuat Website dengan Tailwind</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <section class="flex flex-col min-h-screen bg-[url('img/background.jpg')] bg-center bg-cover relative">
+    <div
+      class="px-28 py-5"
+    >
+      <nav class="flex items-center">
+        <img src="img/left.png" alt="logo" class="w-40 cursor-pointer w-8" />
+        <ul class="flex-1 text-center">
+          <li class="list-none inline-block px-5">
+            <a href="#" class="no-underline text-white">Home</a>
+          </li>
+          <li class="list-none inline-block px-5">
+            <a href="#" class="no-underline text-white">About</a>
+          </li>
+          <li class="list-none inline-block px-5">
+            <a href="#" class="no-underline text-white">Features</a>
+          </li>
+          <li class="list-none inline-block px-5">
+            <a href="#" class="no-underline text-white">Contact</a>
+          </li>
+        </ul>
+        <img src="img/right.png" alt="keranjang" class="w-8 cursor-pointer" />
+      </nav>
+
+      <div class="text-white mt-48">
+        <h1 class="text-6xl font-semibold leading-normal">
+          Olahan Kentang <br>
+          Mustofa
+           <span class="font-light"><br>Dapoer Asakan</span>
+        </h1>
+        <p>
+         Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Veniam recusandae deleniti, necessitatibus quisquam accusantium <br> voluptas maxime, incidunt voluptatibus architecto excepturi <br> placeat numquam. Consequuntur sed assumenda eum. <br>Culpa, esse minima, eum dicta ea non officia dignissimos neque <br> fugiat quaerat voluptatibus autem!
+        </p>
+
+        <div class="mt-10">
+          <a
+            href="#"
+            class="bg-yellow-300 rounded-3xl py-3 px-8 font-medium inline-block mr-4 hover:bg-transparant hover:border-yellow-300 hover:text-white duration-300 hover:border border border-transparent"
+            >See More -></a
+          >
+          <a href="#">Unduh Resepnya <span class="text-lg inline-block rotate-90">&#10148</span></a>
+        </div>
+
+      </div>
+      <img src="img/eating.png" class="xl:w-1/3 xl:absolute bottom-0 right-20 z-0 mb-20">
+    </div>
+  </section> 
+  </body>
+</html>

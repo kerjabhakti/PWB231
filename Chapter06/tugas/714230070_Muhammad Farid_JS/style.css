@@ -1,0 +1,21 @@
+.imgone{
+    margin-top: 2rem;
+}
+
+footer{
+    background-color: rgb(163, 216, 216);
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.images{
+    width: 80rem;
+    height: 50rem;
+    filter: brightness(70%);
+}
+
+.paragraf{
+    margin-top: 3rem;
+    width: 50rem;
+    background-color: rgb(163, 216, 216);
+}
